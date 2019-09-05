@@ -1,0 +1,6 @@
+name: NovaAnarchy
+version: 1.0
+main: ru.draiget.nova.main.Main
+commands:
+  aclan:
+    aliases: ac
